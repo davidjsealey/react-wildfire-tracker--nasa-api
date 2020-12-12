@@ -8,3 +8,8 @@ body {
   position: relative;
   width: 100vw;
 }
+
+.location-icon {
+  color: red;
+  font-size: 2rem;
+}
