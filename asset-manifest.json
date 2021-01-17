@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-wildfire-tracker--nasa-api/static/css/main.a6068b05.chunk.css",
+    "main.js": "/react-wildfire-tracker--nasa-api/static/js/main.47a1297a.chunk.js",
+    "main.js.map": "/react-wildfire-tracker--nasa-api/static/js/main.47a1297a.chunk.js.map",
+    "runtime-main.js": "/react-wildfire-tracker--nasa-api/static/js/runtime-main.9962a73f.js",
+    "runtime-main.js.map": "/react-wildfire-tracker--nasa-api/static/js/runtime-main.9962a73f.js.map",
+    "static/js/2.57e7488a.chunk.js": "/react-wildfire-tracker--nasa-api/static/js/2.57e7488a.chunk.js",
+    "static/js/2.57e7488a.chunk.js.map": "/react-wildfire-tracker--nasa-api/static/js/2.57e7488a.chunk.js.map",
+    "static/js/3.8b83e892.chunk.js": "/react-wildfire-tracker--nasa-api/static/js/3.8b83e892.chunk.js",
+    "static/js/3.8b83e892.chunk.js.map": "/react-wildfire-tracker--nasa-api/static/js/3.8b83e892.chunk.js.map",
+    "index.html": "/react-wildfire-tracker--nasa-api/index.html",
+    "static/css/main.a6068b05.chunk.css.map": "/react-wildfire-tracker--nasa-api/static/css/main.a6068b05.chunk.css.map",
+    "static/js/2.57e7488a.chunk.js.LICENSE.txt": "/react-wildfire-tracker--nasa-api/static/js/2.57e7488a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9962a73f.js",
+    "static/js/2.57e7488a.chunk.js",
+    "static/css/main.a6068b05.chunk.css",
+    "static/js/main.47a1297a.chunk.js"
+  ]
+}
